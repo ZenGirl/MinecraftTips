@@ -4,13 +4,13 @@ A curated collection of Minecraft tips
 
 ## Basic tips
 
-- Mobs don't spawn on slabs.
-- A lava bucket in a furnace is 12 times better than coal.
+- Mobs don't spawn on slabs if they are in the lower half of the block.
+- A lava bucket in a furnace is 12 times better than coal, (1xcoal will smelt 8 of something, 1xlava will smelt 100 of the same thing).
 - When you sleep, smelting and crop growth stops.
 - You can use trading with villagers to increase their health if they are attacked.
 - Fishing rods work on pressure plates.
 - Jungle trees don't always produce a sapling. So make giant jungle trees instead.
-- Surround carrots, apples and melons to get their golden versions.
+- Surround carrots, apples and melons with gold nuggest to get their golden versions.
 - Place saplings in a hole two blocks deep to make them grow tall.
 - Always enchant your fishing rod to increase catches and limit rubbish fish.
 - Sprinting and jumping (Bunny hopping) is faster then sprinting by a good margin.
@@ -22,16 +22,17 @@ A curated collection of Minecraft tips
 - Nether brick fences are much cheaper than wooden ones. 
 - A single nether brick fence post keeps animals in and let's you in.
 - Use glass panes not blocks!
+- Use a tool with silk touch enchantment to dig up glass blocks without breaking them.
 - Wooden slabs are fire proof.
 - Endermen can be trapped by pushing them into a minecart.
-- Carry a bucket of milk when fighting witches.
+- Carry a bucket of milk when fighting witches, because milk cures poisoning.
 - Lure creepers into water as it blocks explosions.
 - Always repair enchanted items on an anvil.
 - In desert temples smash the pressure plates first in case a mob accidentally sets off the TNT.
 - Keep neutral mobs away from you by using rails.
 - You can lead mobs into traps with a fishing rod.
 - If you don't care about jungle trees, start a fire as it helps find the temples.
-- Combine multiple enchantment books on an anvil.
+- You can combine multiple enchantment books on an anvil.
 - Witches drop glowstone dust.
 - Preferably use clownfish to tame ocelots as they have very little other uses.
 - Cats scare creepers away.
